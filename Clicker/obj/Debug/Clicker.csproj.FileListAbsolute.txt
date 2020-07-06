@@ -1,0 +1,10 @@
+C:\Users\KT\Desktop\Clicker\bin\Debug\Clicker.exe
+C:\Users\KT\Desktop\Clicker\bin\Debug\Clicker.pdb
+C:\Users\KT\Desktop\Clicker\obj\Debug\Clicker.csprojAssemblyReference.cache
+C:\Users\KT\Desktop\Clicker\obj\Debug\Clicker.EditWin.resources
+C:\Users\KT\Desktop\Clicker\obj\Debug\Clicker.MainForm.resources
+C:\Users\KT\Desktop\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+C:\Users\KT\Desktop\Clicker\obj\Debug\Clicker.csproj.GenerateResource.cache
+C:\Users\KT\Desktop\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\KT\Desktop\Clicker\obj\Debug\Clicker.exe
+C:\Users\KT\Desktop\Clicker\obj\Debug\Clicker.pdb
